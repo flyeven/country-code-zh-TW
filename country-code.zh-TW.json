@@ -1,0 +1,736 @@
+[{
+  "code" : "AC",
+  "name" : "亞森欣島"
+},{
+  "code" : "AD",
+  "name" : "安道爾共和國"
+},{
+  "code" : "AE",
+  "name" : "阿拉伯聯合大公國"
+},{
+  "code" : "AF",
+  "name" : "阿富汗"
+},{
+  "code" : "AG",
+  "name" : "安地卡及巴布達"
+},{
+  "code" : "AI",
+  "name" : "安圭拉"
+},{
+  "code" : "AL",
+  "name" : "阿爾巴尼亞"
+},{
+  "code" : "AM",
+  "name" : "亞美尼亞"
+},{
+  "code" : "AN",
+  "name" : "荷屬安的列斯群島"
+},{
+  "code" : "AO",
+  "name" : "安哥拉"
+},{
+  "code" : "AQ",
+  "name" : "南極洲"
+},{
+  "code" : "AR",
+  "name" : "阿根廷"
+},{
+  "code" : "AS",
+  "name" : "薩摩亞"
+},{
+  "code" : "AT",
+  "name" : "奧地利"
+},{
+  "code" : "AU",
+  "name" : "澳大利亞"
+},{
+  "code" : "AW",
+  "name" : "阿魯巴"
+},{
+  "code" : "AZ",
+  "name" : "亞塞拜然"
+},{
+  "code" : "BA",
+  "name" : "波士尼亞"
+},{
+  "code" : "BB",
+  "name" : "巴貝多"
+},{
+  "code" : "BD",
+  "name" : "孟加拉"
+},{
+  "code" : "BE",
+  "name" : "比利時"
+},{
+  "code" : "BF",
+  "name" : "布吉納法索"
+},{
+  "code" : "BG",
+  "name" : "保加利亞"
+},{
+  "code" : "BH",
+  "name" : "巴林"
+},{
+  "code" : "BI",
+  "name" : "蒲隆地"
+},{
+  "code" : "BJ",
+  "name" : "貝南"
+},{
+  "code" : "BM",
+  "name" : "百慕達"
+},{
+  "code" : "BN",
+  "name" : "汶萊"
+},{
+  "code" : "BO",
+  "name" : "玻利維亞"
+},{
+  "code" : "BR",
+  "name" : "巴西"
+},{
+  "code" : "BS",
+  "name" : "巴哈馬"
+},{
+  "code" : "BT",
+  "name" : "不丹"
+},{
+  "code" : "BV",
+  "name" : "波維特島"
+},{
+  "code" : "BW",
+  "name" : "波札那"
+},{
+  "code" : "BY",
+  "name" : "白俄羅斯"
+},{
+  "code" : "BZ",
+  "name" : "貝里斯"
+},{
+  "code" : "CA",
+  "name" : "加拿大"
+},{
+  "code" : "CC",
+  "name" : "可可斯群島(椰子島)"
+},{
+  "code" : "CF",
+  "name" : "中非共和國"
+},{
+  "code" : "CG",
+  "name" : "剛果"
+},{
+  "code" : "CH",
+  "name" : "瑞士"
+},{
+  "code" : "CI",
+  "name" : "象牙海岸"
+},{
+  "code" : "CK",
+  "name" : "科克群島"
+},{
+  "code" : "CL",
+  "name" : "智利"
+},{
+  "code" : "CM",
+  "name" : "喀麥隆"
+},{
+  "code" : "CN",
+  "name" : "中國大陸"
+},{
+  "code" : "CO",
+  "name" : "哥倫比亞"
+},{
+  "code" : "CR",
+  "name" : "哥斯大黎加"
+},{
+  "code" : "CS",
+  "name" : "捷克斯拉夫 (前)"
+},{
+  "code" : "CU",
+  "name" : "古巴"
+},{
+  "code" : "CV",
+  "name" : "維德角"
+},{
+  "code" : "CX",
+  "name" : "耶路撒冷"
+},{
+  "code" : "CY",
+  "name" : "賽普勒斯"
+},{
+  "code" : "CZ",
+  "name" : "捷克共和國"
+},{
+  "code" : "DE",
+  "name" : "德國"
+},{
+  "code" : "DJ",
+  "name" : "吉布地"
+},{
+  "code" : "DK",
+  "name" : "丹麥"
+},{
+  "code" : "DM",
+  "name" : "多明哥"
+},{
+  "code" : "DO",
+  "name" : "多米尼加"
+},{
+  "code" : "DZ",
+  "name" : "阿爾及利亞"
+},{
+  "code" : "EC",
+  "name" : "厄瓜多"
+},{
+  "code" : "EE",
+  "name" : "愛沙尼亞"
+},{
+  "code" : "EG",
+  "name" : "埃及"
+},{
+  "code" : "EH",
+  "name" : "西撒哈拉"
+},{
+  "code" : "ER",
+  "name" : "厄立特里亞 (非洲國家)"
+},{
+  "code" : "ES",
+  "name" : "西班牙"
+},{
+  "code" : "ET",
+  "name" : "衣索比亞"
+},{
+  "code" : "FI",
+  "name" : "芬蘭"
+},{
+  "code" : "FJ",
+  "name" : "斐濟"
+},{
+  "code" : "FK",
+  "name" : "福克蘭群島"
+},{
+  "code" : "FM",
+  "name" : "密克羅尼西亞"
+},{
+  "code" : "FO",
+  "name" : "法羅群島"
+},{
+  "code" : "FR",
+  "name" : "法國"
+},{
+  "code" : "FX",
+  "name" : "法國，大都會"
+},{
+  "code" : "GA",
+  "name" : "加彭"
+},{
+  "code" : "GB",
+  "name" : "英國"
+},{
+  "code" : "GD",
+  "name" : "格瑞納達"
+},{
+  "code" : "GE",
+  "name" : "喬治亞"
+},{
+  "code" : "GF",
+  "name" : "法屬圭亞那"
+},{
+  "code" : "GH",
+  "name" : "迦納"
+},{
+  "code" : "GI",
+  "name" : "直布羅陀"
+},{
+  "code" : "GL",
+  "name" : "格陵蘭"
+},{
+  "code" : "GM",
+  "name" : "甘比亞"
+},{
+  "code" : "GN",
+  "name" : "幾內亞"
+},{
+  "code" : "GP",
+  "name" : "瓜德魯普島"
+},{
+  "code" : "GQ",
+  "name" : "赤道幾內亞"
+},{
+  "code" : "GR",
+  "name" : "希臘"
+},{
+  "code" : "GS",
+  "name" : "南喬治亞和南桑德韋奇群島"
+},{
+  "code" : "GT",
+  "name" : "瓜地馬拉"
+},{
+  "code" : "GU",
+  "name" : "關島"
+},{
+  "code" : "GW",
+  "name" : "幾內亞比索"
+},{
+  "code" : "GY",
+  "name" : "圭亞那"
+},{
+  "code" : "HK",
+  "name" : "香港"
+},{
+  "code" : "HM",
+  "name" : "赫德及麥當勞群島"
+},{
+  "code" : "HN",
+  "name" : "宏都拉斯"
+},{
+  "code" : "HR",
+  "name" : "克羅埃西亞"
+},{
+  "code" : "HT",
+  "name" : "海地"
+},{
+  "code" : "HU",
+  "name" : "匈牙利"
+},{
+  "code" : "ID",
+  "name" : "印度尼西亞"
+},{
+  "code" : "IE",
+  "name" : "愛爾蘭"
+},{
+  "code" : "IL",
+  "name" : "以色列"
+},{
+  "code" : "IN",
+  "name" : "印度"
+},{
+  "code" : "IO",
+  "name" : "英聯邦的印度洋領域"
+},{
+  "code" : "IQ",
+  "name" : "伊拉克"
+},{
+  "code" : "IR",
+  "name" : "伊朗"
+},{
+  "code" : "IS",
+  "name" : "冰島"
+},{
+  "code" : "IT",
+  "name" : "意大利"
+},{
+  "code" : "JM",
+  "name" : "牙買加"
+},{
+  "code" : "JO",
+  "name" : "約旦"
+},{
+  "code" : "JP",
+  "name" : "日本"
+},{
+  "code" : "KE",
+  "name" : "肯亞"
+},{
+  "code" : "KG",
+  "name" : "吉爾吉斯"
+},{
+  "code" : "KH",
+  "name" : "高棉 (柬埔寨)"
+},{
+  "code" : "KI",
+  "name" : "吉里巴斯"
+},{
+  "code" : "KM",
+  "name" : "科摩羅"
+},{
+  "code" : "KN",
+  "name" : "聖克里斯多福及尼維斯"
+},{
+  "code" : "KP",
+  "name" : "北韓"
+},{
+  "code" : "KR",
+  "name" : "南韓"
+},{
+  "code" : "KW",
+  "name" : "科威特"
+},{
+  "code" : "KY",
+  "name" : "開曼群島"
+},{
+  "code" : "KZ",
+  "name" : "哈薩克"
+},{
+  "code" : "LA",
+  "name" : "寮國"
+},{
+  "code" : "LB",
+  "name" : "黎巴嫩"
+},{
+  "code" : "LC",
+  "name" : "聖露西亞"
+},{
+  "code" : "LI",
+  "name" : "列支敦斯登"
+},{
+  "code" : "LK",
+  "name" : "斯里蘭卡"
+},{
+  "code" : "LR",
+  "name" : "賴比瑞亞"
+},{
+  "code" : "LS",
+  "name" : "賴索托"
+},{
+  "code" : "LT",
+  "name" : "立陶宛"
+},{
+  "code" : "LU",
+  "name" : "盧森堡"
+},{
+  "code" : "LV",
+  "name" : "拉脫維亞"
+},{
+  "code" : "LY",
+  "name" : "利比亞"
+},{
+  "code" : "MA",
+  "name" : "摩洛哥"
+},{
+  "code" : "MC",
+  "name" : "摩納哥"
+},{
+  "code" : "MD",
+  "name" : "摩爾多瓦"
+},{
+  "code" : "MG",
+  "name" : "馬達加斯加"
+},{
+  "code" : "MH",
+  "name" : "馬紹爾群島"
+},{
+  "code" : "MK",
+  "name" : "馬其頓"
+},{
+  "code" : "ML",
+  "name" : "馬利"
+},{
+  "code" : "MM",
+  "name" : "緬甸"
+},{
+  "code" : "MN",
+  "name" : "蒙古"
+},{
+  "code" : "MO",
+  "name" : "澳門"
+},{
+  "code" : "MP",
+  "name" : "北聖"
+},{
+  "code" : "MQ",
+  "name" : "聖馬丁"
+},{
+  "code" : "MR",
+  "name" : "茅利塔尼亞"
+},{
+  "code" : "MS",
+  "name" : "蒙瑟拉特島"
+},{
+  "code" : "MT",
+  "name" : "馬爾他"
+},{
+  "code" : "MU",
+  "name" : "模里西斯"
+},{
+  "code" : "MV",
+  "name" : "馬爾地夫"
+},{
+  "code" : "MW",
+  "name" : "馬拉威"
+},{
+  "code" : "MX",
+  "name" : "墨西哥"
+},{
+  "code" : "MY",
+  "name" : "馬來西亞"
+},{
+  "code" : "MZ",
+  "name" : "莫三比克"
+},{
+  "code" : "NA",
+  "name" : "納米比亞"
+},{
+  "code" : "NC",
+  "name" : "新加勒多尼亞"
+},{
+  "code" : "NE",
+  "name" : "尼日"
+},{
+  "code" : "NF",
+  "name" : "諾福克群島"
+},{
+  "code" : "NG",
+  "name" : "奈及利亞"
+},{
+  "code" : "NI",
+  "name" : "尼加拉瓜"
+},{
+  "code" : "NL",
+  "name" : "荷蘭"
+},{
+  "code" : "NO",
+  "name" : "挪威"
+},{
+  "code" : "NP",
+  "name" : "尼泊爾"
+},{
+  "code" : "NR",
+  "name" : "諾魯"
+},{
+  "code" : "NT",
+  "name" : "中立區"
+},{
+  "code" : "NU",
+  "name" : "紐威島"
+},{
+  "code" : "NZ",
+  "name" : "紐西蘭"
+},{
+  "code" : "OM",
+  "name" : "阿曼"
+},{
+  "code" : "PA",
+  "name" : "巴拿馬"
+},{
+  "code" : "PE",
+  "name" : "秘魯"
+},{
+  "code" : "PF",
+  "name" : "法屬玻里尼西亞"
+},{
+  "code" : "PG",
+  "name" : "巴布亞新幾內亞"
+},{
+  "code" : "PH",
+  "name" : "菲律賓"
+},{
+  "code" : "PK",
+  "name" : "巴基斯坦"
+},{
+  "code" : "PL",
+  "name" : "波蘭"
+},{
+  "code" : "PM",
+  "name" : "聖皮耳"
+},{
+  "code" : "PN",
+  "name" : "聖皮特開恩群島"
+},{
+  "code" : "PR",
+  "name" : "波多黎各"
+},{
+  "code" : "PT",
+  "name" : "葡萄牙"
+},{
+  "code" : "PW",
+  "name" : "帛琉"
+},{
+  "code" : "PY",
+  "name" : "巴拉圭"
+},{
+  "code" : "QA",
+  "name" : "卡達"
+},{
+  "code" : "RE",
+  "name" : "留尼旺島"
+},{
+  "code" : "RO",
+  "name" : "羅馬尼亞"
+},{
+  "code" : "RU",
+  "name" : "俄羅斯聯邦"
+},{
+  "code" : "RW",
+  "name" : "盧安達"
+},{
+  "code" : "SA",
+  "name" : "沙烏地阿拉伯"
+},{
+  "code" : "SB",
+  "name" : "所羅門群島"
+},{
+  "code" : "SC",
+  "name" : "塞席爾"
+},{
+  "code" : "SD",
+  "name" : "蘇丹"
+},{
+  "code" : "SE",
+  "name" : "瑞典"
+},{
+  "code" : "SG",
+  "name" : "新加坡"
+},{
+  "code" : "SH",
+  "name" : "聖赫勒拿島"
+},{
+  "code" : "SI",
+  "name" : "斯洛法尼亞"
+},{
+  "code" : "SJ",
+  "name" : "冷岸和央麥恩島"
+},{
+  "code" : "SK",
+  "name" : "斯洛伐克"
+},{
+  "code" : "SL",
+  "name" : "獅子山"
+},{
+  "code" : "SM",
+  "name" : "聖馬利諾"
+},{
+  "code" : "SN",
+  "name" : "塞內加爾"
+},{
+  "code" : "SO",
+  "name" : "索馬利亞"
+},{
+  "code" : "SR",
+  "name" : "蘇利南"
+},{
+  "code" : "ST",
+  "name" : "聖多美及普林西比"
+},{
+  "code" : "SU",
+  "name" : "蘇聯 (前)"
+},{
+  "code" : "SV",
+  "name" : "薩爾瓦多"
+},{
+  "code" : "SY",
+  "name" : "敘利亞"
+},{
+  "code" : "SZ",
+  "name" : "史瓦濟蘭"
+},{
+  "code" : "TC",
+  "name" : "土克斯及開科斯群島"
+},{
+  "code" : "TD",
+  "name" : "查德"
+},{
+  "code" : "TF",
+  "name" : "法屬南部屬地"
+},{
+  "code" : "TG",
+  "name" : "多哥"
+},{
+  "code" : "TH",
+  "name" : "泰國"
+},{
+  "code" : "TJ",
+  "name" : "塔吉克"
+},{
+  "code" : "TK",
+  "name" : "托克勞群島"
+},{
+  "code" : "TM",
+  "name" : "土庫曼"
+},{
+  "code" : "TN",
+  "name" : "突尼西亞"
+},{
+  "code" : "TO",
+  "name" : "東加"
+},{
+  "code" : "TP",
+  "name" : "帝汶"
+},{
+  "code" : "TR",
+  "name" : "土耳其"
+},{
+  "code" : "TT",
+  "name" : "千里達及托貝哥"
+},{
+  "code" : "TV",
+  "name" : "吐瓦魯"
+},{
+  "code" : "TW",
+  "name" : "台灣"
+},{
+  "code" : "TZ",
+  "name" : "坦尚尼亞"
+},{
+  "code" : "UA",
+  "name" : "烏克蘭"
+},{
+  "code" : "UG",
+  "name" : "烏干達"
+},{
+  "code" : "UK",
+  "name" : "英國（正式代碼為GB）"
+},{
+  "code" : "UM",
+  "name" : "美屬邊疆群島"
+},{
+  "code" : "US",
+  "name" : "美國"
+},{
+  "code" : "UY",
+  "name" : "烏拉圭"
+},{
+  "code" : "UZ",
+  "name" : "烏茲別克"
+},{
+  "code" : "VA",
+  "name" : "梵蒂岡 (羅馬教庭)"
+},{
+  "code" : "VC",
+  "name" : "聖文森及格"
+},{
+  "code" : "VE",
+  "name" : "委內瑞拉"
+},{
+  "code" : "VG",
+  "name" : "英屬維爾京群島 (英)"
+},{
+  "code" : "VI",
+  "name" : "英屬維爾京群島 (美)"
+},{
+  "code" : "VN",
+  "name" : "越南"
+},{
+  "code" : "VU",
+  "name" : "萬那杜(共和國) (位於大洋洲)"
+},{
+  "code" : "WF",
+  "name" : "沃利斯和富圖納群島"
+},{
+  "code" : "WS",
+  "name" : "西薩摩亞"
+},{
+  "code" : "YE",
+  "name" : "葉門"
+},{
+  "code" : "YT",
+  "name" : "馬約特(島)"
+},{
+  "code" : "YU",
+  "name" : "南斯拉夫"
+},{
+  "code" : "ZA",
+  "name" : "南非"
+},{
+  "code" : "ZM",
+  "name" : "尚比亞"
+},{
+  "code" : "ZR",
+  "name" : "扎伊爾"
+},{
+  "code" : "ZW",
+  "name" : "辛巴威"
+},{
+  "code" : "ZZ",
+  "name" : "其他"
+}]
